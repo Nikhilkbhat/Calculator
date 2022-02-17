@@ -1,2 +1,2 @@
 # Calculator
-Calculator using Tkinter in Python
+Lyriclious major project : Calculator using Tkinter in Python
