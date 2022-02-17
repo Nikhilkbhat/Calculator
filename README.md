@@ -1,2 +1,2 @@
 # Calculator
-Lyriclious major project : Calculator using Tkinter in Python
+[Lyriclious](https://lyriclious.com/) major project : Calculator using Tkinter in Python
